@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: SkillV
+  data:
+    mongodb:
+      username: paf-admin
+      password: bOAQas5fC7TpxWwp
+      database: skillv
+      uri: mongodb+srv://paf-admin:bOAQas5fC7TpxWwp@cluster0.0kimx7n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+  security:
+    oauth2:
+      resourceserver:
+        opaquetoken:
+          introspection-uri: https://www.googleapis.com
+          client-id: 284971983848-p46dkg7gn7jqdnm8hscl5l8cs3l4kjuq.apps.googleusercontent.com
+          client-secret: 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

@@ -1,0 +1,188 @@
+
+[
+    {
+        "id": 1,
+        "image": "1.jpg",
+        "bannerImg": "post-banner1.jpg",
+        "category": "Education",
+        "title": "Fostering future Schools & social Innovation",
+        "author" : "Charlie Doyle",
+        "authorImg": "author.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 2,
+        "image": "2.jpg",
+        "bannerImg": "post-banner2.jpg",
+        "category": "Education",
+        "title": "The Surprising Reason College Tuition",
+        "author" : "Charlie Doyle",
+        "authorImg": "author2.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 3,
+        "image": "3.jpg",
+        "bannerImg": "post-banner1.jpg",
+        "category": "Education",
+        "title": "Those other College Expenses about",
+        "author" : "Charlie Doyle",
+        "authorImg": "author3.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 4,
+        "image": "1.jpg",
+        "bannerImg": "post-banner2.jpg",
+        "category": "Education",
+        "title": "How to growing your business",
+        "author" : "Charlie Doyle",
+        "authorImg": "author4.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 5,
+        "image": "2.jpg",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Development",
+        "title": "Learn React in 3 Weeks",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time.",
+        "weeks": [
+            { "week": 1, "title": "Introduction to React", "content": "JSX, Components, Props" },
+            { "week": 2, "title": "State and Lifecycle", "content": "State, useState, Lifecycle methods" },
+            { "week": 3, "title": "Handling Events & Forms", "content": "Event handlers, Controlled components" }
+        ],
+        "authorID": 2,
+        "tags": ["React", "JavaScript", "Web Development"],
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 18",
+        "totalView": 7750,
+        "comments": [
+            {
+                "userId": 1,
+                "date": "2025-06-01",
+                "comment": "This course was amazing! I learned so much about portrait photography."
+            },
+            {
+                "userId": 2,
+                "date": "2025-06-01",
+                "comment": "Great tips on lighting and composition. Highly recommend!"
+            }
+        ]
+        
+    },
+    {
+        "id": 6,
+        "image": "2.jpg",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Design",
+        "title": "Learn Python in 4 Weeks",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time.",
+        "weeks": [
+            { "week": 1, "title": "Introduction to python", "content": "JSX, Components, Props" },
+            { "week": 2, "title": "State and Lifecycle", "content": "State, useState, Lifecycle methods" },
+            { "week": 3, "title": "Handling Events & Forms", "content": "Event handlers, Controlled components" },
+            { "week": 4, "title": "Handling Events & Forms", "content": "Event handlers, Controlled components" }
+        ],
+        "authorID": 2,
+        "tags": ["React", "JavaScript", "Web Development"],
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 12",
+        "totalView": 456,
+        "comments": [
+            {
+                "userId": 1,
+                "date": "2025-06-01",
+                "comment": "This course was amazing! I learned so much about portrait photography."
+            },
+            {
+                "userId": 2,
+                "date": "2025-06-01",
+                "comment": "Great tips on lighting and composition. Highly recommend!"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "2.jpg",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Design",
+        "title": "Why public schools should continue to use Remote learning",
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 8,
+        "image": "4.jpg",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Design",
+        "title": "The Role of conflict in a political account of Common Goods",
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 9,
+        "image": "5.jpg",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Design",
+        "title": "7 Learning management system design tips For better eLearning",
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 10,
+        "image": "4.png",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Design",
+        "title": "A Better alternative to grading student writing",
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 11,
+        "image": "5.png",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Design",
+        "title": "Strategic Social Media & evolution of visual",
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    },
+    {
+        "id": 12,
+        "image": "6.png",
+        "bannerImg": "post-banner3.jpg",
+        "category": "Web Design",
+        "title": "Adobe lightroom for beginners complete",
+        "author" : "Charlie Doyle",
+        "authorImg": "author5.png",
+        "publishedDate": "April 18",
+        "totalView": "77",
+        "description": "Why I say old chap that is spiffing in my flat such a fibber mufty mush, porkies barney<br/>pukka only a quid a what a load of rubbish good time."
+    }
+
+]

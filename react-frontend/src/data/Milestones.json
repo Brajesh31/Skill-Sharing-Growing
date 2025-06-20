@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "authorName": "Charlie Doyle",
+        "date" : "2023-10-01",
+        "profileImg": "author3.jpg",
+        "skill": "UX Design",
+        "title": "Complete certificate",
+        "templateType": "completed_tutorial",
+        "templateData": {
+            "tutorialName": "UX Design for Beginners",
+            "platform": "Coursera",
+            "duration": "4 weeks",
+            "skillsGained": ["Wireframing", "User Research"],
+            "achievement": "Certificate of completion",
+            "difficulty": "Easy",
+            "recommendation": "Yes"
+        },   
+        "description" : "I exited to share that I have completed the UX Design for Beginners course!",
+        "likes": "49",
+        "comments":{
+            "total": 10,
+            "comments": [
+                {
+                    "userId": 3,
+                    "userName": "Alice Smith",
+                    "comment": "Great course!",
+                    "profileImg": "author3.jpg",
+                    "date": "2025-06-01"
+                },
+                {
+                    "userId": 4,
+                    "userName": "Bob Johnson",
+                    "comment": "Very informative.",
+                    "profileImg": "author3.jpg",
+                    "date": "2025-01-02"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "userId": 3,
+        "authorName": "Alice Smith",
+        "date" : "2023-10-02",
+        "profileImg": "author1.jpg",
+        "skill": "Web Development",
+        "title": "Full Stack Web Development",
+        "templateType": "completed_tutorial",
+        "templateData": {
+            "title": "Completed a Tutorial",
+            "tutorialName": "Build a Netflix Clone with React",
+            "platform": "YouTube - Clever Programmer",
+            "duration": "8 hours",
+            "skillsGained": "React Hooks, Firebase Auth, Styled Components",
+            "achievement": "Built a fully functional Netflix clone with authentication and movie browsing features. Implemented responsive design principles to ensure it works well on mobile devices.",
+            "demoLink": "https://netflix-clone-d8e3f.web.app",
+            "difficulty": "Medium",
+            "recommendation": "Yes",
+            "recommendationReason": "Great project-based learning experience that covers many real-world aspects of React development."
+            },
+        "likes": "30",
+        "comments":{
+            "total": 5,
+            "comments": [
+                {
+                    "userId": 2,
+                    "userName": "Alice Kanve",
+                    "comment": "Congratulations!",
+                    "profileImg": "author2.jpg",
+                    "date": "2023-10-03"
+                },
+                {
+                    "userId": 4,
+                    "userName": "Bob Johnson",
+                    "comment": "Well done!",
+                    "profileImg": "author3.jpg",
+                    "date": "2023-10-04"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "userId": 4,
+        "authorName": "Bob Johnson",
+        "date" : "2023-10-03",
+        "profileImg": "author2.jpg",
+        "skill": "Data Science",
+        "title": "Data Science Bootcamp",
+        "templateType": "weekly_summary",
+        "templateData": {
+            "title": "Weekly Learning Recap",
+            "workedOn": "This week I focused on learning React Router and state management with Context API. I spent about 20 hours coding and implementing these concepts in my personal project.",
+            "highlights": "Successfully refactored my single-page application to use React Router for navigation. Implemented global state management with Context API which significantly reduced prop drilling.",
+            "challenge": "Understanding nested routes in React Router was tricky. I struggled with setting up dynamic routes and had to revisit the documentation several times.",
+            "nextFocus": "Next week I plan to learn about testing React components using Jest and React Testing Library. I also want to add unit tests to my current project.",
+            "progress": "I'm pleased with my progress. I've overcome the major hurdles in my project's architecture, and the application is starting to take shape. Moving from class components to function components with hooks has really improved my code."
+            },
+        "likes": "25",
+        "comments":{
+            "total": 8,
+            "comments": [
+                {
+                    "userId": 1,
+                    "userName": "Charlie Doyle",
+                    "comment": "Awesome job!",
+                    "profileImg": "author1.jpg",
+                    "date": "2023-10-05"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "userId": 5,
+        "authorName": "David Brown",
+        "date" : "2023-10-04",
+        "profileImg": "author4.jpg",
+        "skill": "Machine Learning",
+        "title": "Machine Learning Specialization",
+        "description" : "I am proud to announce that I have completed the Machine Learning Specialization!",
+        "likes": "50",
+        "comments":{
+            "total": 12,
+            "comments": [
+                
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "userId": 6,
+        "authorName": "Eve Davis",
+        "date" : "2023-10-05",
+        "profileImg": "author5.jpg",
+        "skill": "Digital Marketing",
+        "title": "Digital Marketing Masterclass",
+        "description" : "I am excited to share that I have completed the Digital Marketing Masterclass!",
+        "likes": "40",
+        "comments":{
+            "total": 7,
+            "comments": [
+                {
+                    "userId": 2,
+                    "userName": "Alice Kanve",
+                    "comment": "Great work!",
+                    "profileImg": "author2.jpg",
+                    "date": "2023-10-09"
+                },
+                {
+                    "userId": 4,
+                    "userName": "Bob Johnson",
+                    "comment": "Keep it up!",
+                    "profileImg": "author3.jpg",
+                    "date": "2023-10-10"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "userId": 5,
+        "authorName": "David Brown",
+        "date" : "2023-10-04",
+        "profileImg": "author4.jpg",
+        "skill": "Machine Learning",
+        "title": "Machine Learning Specialization",
+        "description" : "I am proud to announce that I have completed the Machine Learning Specialization!",
+        "likes": "50",
+        "comments":{
+            "total": 12,
+            "comments": [
+                
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "userId": 6,
+        "authorName": "David Brown",
+        "date" : "2023-10-04",
+        "profileImg": "author4.jpg",
+        "skill": "Machine Learning",
+        "title": "Machine Learning Specialization",
+        "description" : "I am proud to announce that I have completed the Machine Learning Specialization!",
+        "likes": "50",
+        "comments":{
+            "total": 12,
+            "comments": [
+                
+            ]
+        }
+    }
+    
+
+]

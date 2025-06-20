@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: SkillV
+  data:
+    mongodb:
+      username: 
+      password: 
+      database: skillv
+      uri: 
+  security:
+    oauth2:
+      resourceserver:
+        opaquetoken:
+          introspection-uri: https://www.googleapis.com
+          client-id: 
+          client-secret: 
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 70MB
+azure:
+  storage:
+    connection-string: 
+    container-name: 
+    use-public-container: true
+
+video:
+  thumbnail:
+    ffmpeg:
+      path: C:/Users/User/Downloads/ffmpeg/ffmpeg/bin/ffmpeg.exe
+    temp:
+      dir: D:/workspace/coresync/temp
+
+app:
+  oauth2:
+    redirect-uri: http://localhost:3000/callback

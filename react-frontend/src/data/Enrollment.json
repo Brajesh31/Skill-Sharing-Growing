@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "enrollment1_id",
+    "userId": "4",
+    "roadmapId": "5",
+    "progress": [
+      { "week": 1, "completed": true },
+      { "week": 2, "completed": false },
+      { "week": 3, "completed": false }
+    ],
+    "enrolledAt": "2025-04-10T11:00:00Z"
+  },
+  {
+    "_id": "enrollment1_id",
+    "userId": "5",
+    "roadmapId": "6",
+    "progress": [
+      { "week": 1, "completed": true },
+      { "week": 2, "completed": true },
+      { "week": 3, "completed": false },
+      { "week": 4, "completed": false }
+    ],
+    "enrolledAt": "2024-04-10T11:00:00Z"
+
+  }
+]
+  
